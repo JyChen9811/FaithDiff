@@ -732,7 +732,7 @@ def main():
     
     train_dataloader = torch.utils.data.DataLoader(
         train_dataset,
-        sampler=DistributedSampler(train_dataset, shuffle=True),
+        shuffle=True,
         collate_fn=collate_fn,
         batch_size=args.train_batch_size,
         num_workers=4,
