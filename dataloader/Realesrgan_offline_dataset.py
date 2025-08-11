@@ -266,7 +266,7 @@ class LocalImageDataset(data.Dataset):
             "text_input_ids_2": text_input_ids_2,
             "original_size": original_size,
             "crop_coords_top_left": crop_coords_top_left,
-            "target_size": torch.tensor([crop_pad_size, crop_pad_size]),
+            "target_size": torch.tensor([self.crop_size, self.crop_size]),
             'gt_path': gt_path,
             'null_text_input_ids': null_text_input_ids,
             "null_text_input_ids_2": null_text_input_ids_2
