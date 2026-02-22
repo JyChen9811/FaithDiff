@@ -9,8 +9,15 @@
 > If FaithDiff is helpful for you, please help star the GitHub Repo. Thanks!
 
 > Welcome to visit our website (专注底层视觉领域的信息服务平台) for low-level vision: [https://lowlevelcv.com/](https://lowlevelcv.com/)
----
 
+
+😊 You may also want to check our relevant works:
+
+1. **STCDiT (CVPR 2026)** [Paper](https://arxiv.org/abs/2511.18786) | [Code](https://github.com/JyChen9811/STCDiT)  
+
+   A motion-aware VAE and anchor-frame guided DiT framework for video restoration that can handle complex camera motions.
+   
+---  
 ### 🚩 **New Features/Updates**
 - ✅ April 3, 2025. The code has been integrated into [Diffusers](https://github.com/huggingface/diffusers/blob/main/examples/community/pipeline_faithdiff_stable_diffusion_xl.py). Respect to Eliseu Silva!!!
 - ✅ April 1, 2025. Supports FP8 inference and CPU offloading, significantly reducing memory usage. Thanks Eliseu Silva!!!
@@ -20,6 +27,7 @@
 - ✅ February 08, 2025. Release [RealDeg](https://drive.google.com/file/d/1B8BaaMjXJ-1TfcTgE9MrAg8ufvaGkndP/view?usp=sharing). It includes 238 images with unknown degradations, consisting of old photographs, social media images, and classic film stills.
 - ✅ February 07, 2025. Release the testing code and [pre-trained model](https://huggingface.co/jychen9811/FaithDiff).
 - ✅ November 25, 2024. Creat the repository and the [project page](https://jychen9811.github.io/FaithDiff_page/).
+
 
 ### ⚡ **To do**
 - FaithDiff-SD3-Large
