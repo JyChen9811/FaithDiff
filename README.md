@@ -10,6 +10,7 @@
 
 > Welcome to visit our website (专注底层视觉领域的信息服务平台) for low-level vision: [https://lowlevelcv.com/](https://lowlevelcv.com/)
 
+---  
 
 😊 You may also want to check our relevant works:
 
@@ -17,7 +18,7 @@
 
    A motion-aware VAE and anchor-frame guided DiT framework for video restoration that can handle complex camera motions.
    
----  
+
 ### 🚩 **New Features/Updates**
 - ✅ April 3, 2025. The code has been integrated into [Diffusers](https://github.com/huggingface/diffusers/blob/main/examples/community/pipeline_faithdiff_stable_diffusion_xl.py). Respect to Eliseu Silva!!!
 - ✅ April 1, 2025. Supports FP8 inference and CPU offloading, significantly reducing memory usage. Thanks Eliseu Silva!!!
