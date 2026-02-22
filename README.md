@@ -16,7 +16,7 @@
 
 1. **STCDiT (CVPR 2026)** [Paper](https://arxiv.org/abs/2511.18786) | [Code](https://github.com/JyChen9811/STCDiT)  
 
-   We propose a motion-aware VAE and anchor-frame guided DiT framework for video restoration that reconstructs structurally faithful and temporally consistent videos from degraded inputs, even under complex camera motions.
+   A motion-aware VAE and anchor-frame-guided DiT framework enables stable video restoration, even under complex camera motions.
    
 
 ### 🚩 **New Features/Updates**
