@@ -15,10 +15,10 @@
 😊 You may also want to check our relevant works:
 
 1. **STCDiT (CVPR 2026)** [Paper](https://arxiv.org/abs/2511.18786) | [Code](https://github.com/JyChen9811/STCDiT)  
-
    A motion-aware VAE and anchor-frame-guided DiT framework enables stable video restoration, even under complex camera motions.
    
-
+2. **CODSR (CVPR2026)** [Paper](https://arxiv.org/abs/2512.14061  ) | [Code](https://github.com/Chanson94/CODSR  )  
+   A one-step diffusion SR framework enabling region-discriminative activation of generative priors and precise semantic grounding.
 ### 🚩 **New Features/Updates**
 - ✅ April 3, 2025. The code has been integrated into [Diffusers](https://github.com/huggingface/diffusers/blob/main/examples/community/pipeline_faithdiff_stable_diffusion_xl.py). Respect to Eliseu Silva!!!
 - ✅ April 1, 2025. Supports FP8 inference and CPU offloading, significantly reducing memory usage. Thanks Eliseu Silva!!!
