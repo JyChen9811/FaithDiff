@@ -4,7 +4,7 @@
 > [[Project Page](https://jychen9811.github.io/FaithDiff_page/)]  &emsp; [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_FaithDiff_Unleashing_Diffusion_Priors_for_Faithful_Image_Super-resolution_CVPR_2025_paper.pdf)]
 
 > [Junyang Chen](https://jychen9811.github.io/), [Jinshan Pan](https://jspan.github.io/), [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao) <br>
-> [IMAG Lab](https://imag-njust.net/), Nanjing University of Science and Technology
+> Nanjing University of Science and Technology
 
 > If FaithDiff is helpful for you, please help star the GitHub Repo. Thanks!
 
